@@ -25,8 +25,11 @@ Methods used:
 
 * `.getPath()`: used to get the URL Path.
 * `.getQuery()`: used to get the query component of the URI (returns null if none found).
-*  The most important arguments in each of the two screenshots are checking whether the query equals `null` and if it starts with `s=`, if so then it can concatenate the old and new Strings together using `\n`.
-*  The relevant field value that changes the most when given the specific request (`/add-message?s=<string>`) is `message`. It's field value gets updated to concatenate the new String while still retaining the old one (new String below the old String).
+
+
+The most important arguments in each of the two screenshots are checking whether the query equals `null` and if it starts with `s=`, if so then it can concatenate the old and new Strings together using `\n`.
+
+The relevant field value that changes the most when given the specific request (`/add-message?s=<string>`) is `message`. It's field value gets updated to concatenate the new String while still retaining the old one (new String below the old String).
 
 ## Part 2: Bugs
 
