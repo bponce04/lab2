@@ -11,7 +11,7 @@ Hello, my name is Brian Ponce. In this second lab report, I will be going over t
 
 Code for StringServer:
 
-![code](https://raw.githubusercontent.com/bponce04/cse15l-lab-reports/main/StringServer%20code.png](https://github.com/bponce04/lab2/blob/main/StringServer.png?raw=true)
+![code](https://github.com/bponce04/lab2/blob/main/StringServer.png?raw=true)
 
 Screenshot #1: 
 
