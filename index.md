@@ -15,11 +15,11 @@ Code for StringServer:
 
 Screenshot #1: 
 
-![screenshotOne](https://github.com/bponce04/cse15l-lab-reports/blob/main/sc%20One.png?raw=true)
+![screenshotOne](https://github.com/bponce04/lab2/blob/main/StringServer%20example%201.png?raw=true)
 
 Screenshot #2:
 
-![screenshotTwo](https://github.com/bponce04/cse15l-lab-reports/blob/main/sc%20Two.png?raw=true)
+![screenshotTwo](https://github.com/bponce04/lab2/blob/main/StringServer%20example%202.png?raw=true)
 
 Methods used:
 
